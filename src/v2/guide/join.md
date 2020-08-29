@@ -14,26 +14,26 @@ Ngay bây giờ chúng tôi sẽ trả lời cho hai câu hỏi là cộng đồ
 
 - [Diễn đàn](https://forum.vuejs.org/): Nơi tốt nhất để hỏi các câu hỏi và nhận các câu trả lời về Vue và hệ sinh thái của nó.
 - [Chat](https://chat.vuejs.org/): Một nơi để cho các lập trình viên Vue gặp và tán gẫu theo thời gian thực từ mọi nơi trên thế giới.
-- [GitHub](https://github.com/vuejs): Nếu như bạn phát hiện ra một lỗi mà muốn thông báo hoặc có yêu cầu về tính năng, bạn có thể tạo issue ở trên Github. Chúng tôi cũng rất vui mừng nhận các đóng góp pull request của các bạn.
+- [GitHub](https://github.com/vuejs): Nếu như bạn phát hiện ra một lỗi mà muốn thông báo hoặc có yêu cầu về tính năng, bạn có thể tạo issue ở trên Github. Chúng tôi cũng rất vui mừng nhận các đóng góp pull request (PR) của các bạn.
 
 ### Khám phá hệ sinh thái
 
 - [Trang Awesome Vue](https://github.com/vuejs/awesome-vue): Xem các dự án tuyệt vời đã được công bố bởi các các nhà phát triển tài năng khác.
 - [Diễn đàn "Show and Tell"](https://forum.vuejs.org/c/show-and-tell): Một địa điểm tuyệt vời khác để khám phá những thứ các nhà phát triển khác đã làm và giúp phát triển hệ sinh thái của Vue.
 
-## What You Can Do
+## Bạn có thể làm gì
 
-### Contribute Code
+### Đóng góp code
 
-As with any project, there are rules to contributing. To ensure that we can help you or accept your pull request as quickly as possible, please read [the contributing guide](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md).
+Như trong mọi dự án, có một số luật lệ để đóng góp mà bạn phải tuân theo. Để chắc rằng chúng tôi có thể giúp đỡ các bạn hoặc chấp thuận PR của bạn một cách nhanh nhất có thể, vui lòng đọc [hướng dẫn đóng góp code](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md).
 
-After that, you'll be ready to contribute to Vue's core repositories:
+Sau đó, bạn sẽ sẵn sàng để đóng góp vào các repo nòng cốt của Vue:
 
-- [vue](https://github.com/vuejs/vue): the core library
-- [vuex](https://github.com/vuejs/vuex): Flux-inspired state management
-- [vue-router](https://github.com/vuejs/vue-router): a routing system for SPAs
+- [vue](https://github.com/vuejs/vue): lõi của thư viện
+- [vuex](https://github.com/vuejs/vuex): Hệ thống quản lý state lấy cảm hứng từ Flux
+- [vue-router](https://github.com/vuejs/vue-router): một hệ thống định tuyến cho SPA
 
-...as well as many smaller official [companion libraries](https://github.com/vuejs).
+...và những [thư viện đi kèm](https://github.com/vuejs) chính thức nhỏ hơn khác.
 
 ### Share (and Build) Your Experience
 
