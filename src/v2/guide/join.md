@@ -35,17 +35,18 @@ Sau đó, bạn sẽ sẵn sàng để đóng góp vào các repo nòng cốt c�
 
 ...và những [thư viện đi kèm](https://github.com/vuejs) chính thức nhỏ hơn khác.
 
-### Share (and Build) Your Experience
+### Chia sẻ (và xây dựng) trải nghiệm của bạn
 
-Apart from answering questions and sharing resources in the forum and chat, there are a few other less obvious ways to share and expand what you know:
+Bên cạnh việc trả lời các câu hỏi và chia sẻ các tài nguyên trong diễn đàn và chat, có một số các khác ít trực quan hơn để chia sẻ và mở rộng kiến thức của bạn:
 
-- **Develop learning materials.** It's often said that the best way to learn is to teach. If there's something interesting you're doing with Vue, strengthen your expertise by writing a blog post, developing a workshop, or even publishing a gist that you share on social media.
-- **Watch a repo you care about.** This will send you notifications whenever there's activity in that repository, giving you insider knowledge about ongoing discussions and upcoming features. It's a fantastic way to build expertise so that you're eventually able to help address issues and pull requests.
+- **Các tài liệu học tập phát triển.** Mọi người thường nói rằng cách tốt nhất để học một thứ gì đó là hãy thử dạy nó cho người khác. Nếu như bạn đang làm một thứ gì đó thú vị với Vue, hãy nâng tầm nó lên một xíu nữa bằng cách viết một bài nhật ký điện tử, tổ chức một workshop, hoặc kể cả công bố gist mà bạn chia sẻ trên mạng xã hội.
 
-### Translate Docs
+- **Trông chừng (watch) một repo mà bạn thực sự quan tâm.** Bằng cách làm việc này, khi có hoạt động nào mới trên repo bạn sẽ nhận được thông báo qua hệ thống notification, cung cấp cho bạn một số thông tin bên trong về các vấn đề đang được thảo luận và các chức năng sắp ra mắt. Đây là một cách tuyệt vời để có thể xây dựng kiến thức chuyên môn để sau này bạn có thể chỉ ra các vấn đề hoặc đóng góp bằng các PR.
 
-Vue has already spread across the globe, with even the core team in at least half a dozen timezones. [The forum](https://forum.vuejs.org/) includes 7 languages and counting and many of our docs have [actively-maintained translations](https://github.com/vuejs?utf8=%E2%9C%93&query=vuejs.org). We're very proud of Vue's international reach, but we can do even better.
+### Dịch tài liệu
 
-I hope that right now, you're reading this sentence in your preferred language. If not, would you like to help us get there?
+Vue đã được phổ biến toàn cầu, kể cả các thành viên chính đang ở ít nhất 6 múi giờ khác nhau. [Diễn đàn](https://forum.vuejs.org/) bao gồm 7 ngôn ngữ khác nhau và đang tiếp tục gia tăng, kể cả các tài liệu khác [đang được bảo trì phiên dịch tích cực](https://github.com/vuejs?utf8=%E2%9C%93&query=vuejs.org). Chúng tôi rất tự hào độ phủ quốc tế của Vue, nhưng chúng tôi có thể làm tốt hơn nữa.
 
-If so, please feel free to fork the repo for [these docs](https://github.com/vuejs/vuejs.org/) or for any other officially maintained documentation, then start translating. Once you've made some progress, open an issue or pull request in the main repo and we'll put out a call for more contributors to help you out.
+Tôi nghĩ bây giờ, bạn đang đọc câu này bằng ngôn ngữ ưa thích của mình. Nếu không, bạn có vui lòng giúp chúng tôi với chuyện này?
+
+Nếu có, vui lòng fork repo cho [các tài liệu này](https://github.com/vuejs/vuejs.org/) hoặc cho các tài liệu chính thức đang được bảo trì khác, sau đó bạn có thể bắt đầu phiên dịch. Khi công việc của bạn đã có một ít tiến triển, hãy tạo một issue hoặc một PR trong repo chính và chúng tôi sẽ nhờ cộng sự khác để giúp đỡ bạn.
