@@ -4,22 +4,22 @@ type: guide
 order: 802
 ---
 
-Vue's community is growing incredibly fast and if you're reading this, there's a good chance you're ready to join it. So... welcome!
+Cộng đồng Vue đang gia tăng nhanh chóng một cách đáng kinh ngạc và nếu như bạn đang đọc những dòng này, đây là một cơ hội rất tốt để tham gia với chúng tôi. Rất hoan nghênh các bạn tham gia!
 
-Now we'll answer both what the community can do for you and what you can do for the community.
+Ngay bây giờ chúng tôi sẽ trả lời cho hai câu hỏi là cộng đồng có thể làm gì cho bạn và bạn có thể làm gì cho cộng đồng.
 
-## Resources You'll Enjoy
+## Các tài nguyên mà bạn sẽ thích
 
-### Get Support
+### Tìm kiếm hổ trợ
 
-- [Forum](https://forum.vuejs.org/): The best place to ask questions and get answers about Vue and its ecosystem.
-- [Chat](https://chat.vuejs.org/): A place for Vue devs to meet and chat in real time.
-- [GitHub](https://github.com/vuejs): If you have a bug to report or feature to request, that's what the GitHub issues are for. We also welcome pull requests!
+- [Diễn đàn](https://forum.vuejs.org/): Nơi tốt nhất để hỏi các câu hỏi và nhận các câu trả lời về Vue và hệ sinh thái của nó.
+- [Chat](https://chat.vuejs.org/): Một nơi để cho các lập trình viên Vue gặp và tán gẫu theo thời gian thực từ mọi nơi trên thế giới.
+- [GitHub](https://github.com/vuejs): Nếu như bạn phát hiện ra một lỗi mà muốn thông báo hoặc có yêu cầu về tính năng, bạn có thể tạo issue ở trên Github. Chúng tôi cũng rất vui mừng nhận các đóng góp pull request của các bạn.
 
-### Explore the Ecosystem
+### Khám phá hệ sinh thái
 
-- [The Awesome Vue Page](https://github.com/vuejs/awesome-vue): See what other awesome resources have been published by other awesome people.
-- [The "Show and Tell" Subforum](https://forum.vuejs.org/c/show-and-tell): Another great place to check out what others have built with and for the growing Vue ecosystem.
+- [Trang Awesome Vue](https://github.com/vuejs/awesome-vue): Xem các dự án tuyệt vời đã được công bố bởi các các nhà phát triển tài năng khác.
+- [Diễn đàn "Show and Tell"](https://forum.vuejs.org/c/show-and-tell): Một địa điểm tuyệt vời khác để khám phá những thứ các nhà phát triển khác đã làm và giúp phát triển hệ sinh thái của Vue.
 
 ## What You Can Do
 
