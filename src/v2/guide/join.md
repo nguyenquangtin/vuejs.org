@@ -1,5 +1,5 @@
 ---
-title: Join the Vue.js Community!
+title: Tham gia vào cộng đồng Vue.js!
 type: guide
 order: 802
 ---
